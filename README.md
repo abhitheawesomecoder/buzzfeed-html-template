@@ -6,4 +6,5 @@ Demo
 <br>
 <a href='http://customphpscript.com/quizhtml/quiz.html' target="_blank">Quizhtml</a>
 <br>
-http://customphpscript.com/quizhtml/quizlist.html
+<a href='http://customphpscript.com/quizhtml/quizlist.html' target="_blank">QuizListhtml</a>
+
